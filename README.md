@@ -1,4 +1,4 @@
-# apnacollege-demo
+ # apnacollege-demo
 This is my first git repository
 <b>
-Author-shiva Rajput
+Author-shiva (apna college)
